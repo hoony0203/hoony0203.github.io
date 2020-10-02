@@ -279,8 +279,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# disque comments are broken if you send http:// along with url, this url is ame
-# Deleting the value would remove it from footer.
-   disqus_url : https://hoony0203.github.io
-   disqus id : clienteslim@gmail.com
