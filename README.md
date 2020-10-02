@@ -31,7 +31,7 @@
                     # 더 알아봐야할 것과 궁금한 것 : gem의 설치 방식 및 bundel install시에 일어나는 프로세스
                                                  포스트 작성 방식
                     
-2020.10.02       깃헙 페이지 활성화 후 minimal-mistakes 테마 적용
+2020.10.02       깃헙 페이지 활성화 후 minimal-mistakes 테마 적용 (참조 : https://opentutorials.org/course/3084/18891)
                     
                     # 1. _config.yml상의 사용자 정보 기록 
                       2. assets 폴더 생성 및 사진 등록 
