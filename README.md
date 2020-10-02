@@ -9,13 +9,16 @@
                     # ruby 설치, github desktop 설치, visual studio code 설치)
                     
                     # 1. _config.yml과 index.html만 복사하여 remote_theme 사용하는 방식 http://asq.kr/3ltKEG8JznrM - 실패
-                      2. github desktop으로 repo를 하드디스크에 연동, 테마 다운로드하여 연동된 폴더에 복사하여 붙여넣기 한 후 업로드 - 실패
+                      
+                      2. github desktop으로 repo를 하드디스크에 연동 
+                         테마 다운로드하여 연동된 폴더에 복사하여 붙여넣기 한 후 업로드 - 실패
+                      
                       3. visual studio code로 git clone한 후 업로드하는 방식 https://murra.tistory.com/m/160 - 실패
                     
                     # localhost:4000상에서 실행시에는 작동하나 repository 업로드시 404 오류
                     
                     # clean blog 테마 등 적용 시도 했으나 실패. 
-                    
+                                      
                     # 원인 분석       : 깃헙 페이지에서 지원하지 않는 테마 
                                        + Branch를 Main으로 설정하지 않아서 깃헙 페이지 활성화되지 않고 404 오류 발생
                     
