@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "후니의 개발 블로그"
 title_separator          : "-"
-subtitle                 : 와!개발하시는구나 그거 겁.나.어.렵.습.니.다.# site tagline that appears below site title in masthead
+subtitle                 : 와!개발하시는구나 그거 겁.나.어.렵.습.니.다. # site tagline that appears below site title in masthead
 name                     : "Your Name"
 description              : "An amazing website."
 url                      : "https://hoony0203.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
