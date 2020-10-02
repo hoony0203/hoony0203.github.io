@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "후니의 개발 블로그"
 title_separator          : "-"
 subtitle                 : 와! 개발하시는구나 그거 겁.나.어.렵.습.니.다. # site tagline that appears below site title in masthead
-name                     : "LIM CHANG HOON"
+name                     : "hoony0203"
 description              : "An amazing website."
 url                      : "https://hoony0203.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -94,10 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "hoony0203"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am a developer"
-  location         : "Somewhere"
-  email            :
+  location         : "Seoul Song-Pa"
+  email            : hoony0203@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
